@@ -1,0 +1,26 @@
+git log --stat
+
+git diff commit-id1 commit-id2
+
+git clone repoitory_url
+
+git config --global color.ui auto // makes lines of code appear with colors when using git diff
+
+
+What is the ID of commit with message "Revert Controls"?
+found by running code git log --stat
+b0678b161fcf74467ed3a63110557e3d6229cfa6
+
+How many lines were added in that commit?
+no of insertions
+
+How many lines where deleted ?
+no of deletions
+
+
+git checkout 
+
+used to restore an older version of repositary
+In git git checkout means reseting allyour files to how they were on the time of that commit
+
+ 
